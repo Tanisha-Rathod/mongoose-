@@ -1,0 +1,14 @@
+body{
+    margin-left: 20px;
+}
+        .chat{
+            background-color: aquamarine;
+            display: inline-block;
+            border-radius: 16px;
+            padding: 20px;
+        }
+    
+        .msg{
+            background-color: antiquewhite;
+            color: aqua;
+        }
